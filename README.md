@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hey, I'm Volta (voltacik)</h1>
+<h1 align="center">⚡ Hey, I'm GamerKinq /h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Discord+Bot+Developer;Guard+%7C+Moderation+%7C+Spoofer+Bots;Always+Coding+Something+Cool..." alt="Typing SVG" />
 </p>
@@ -48,15 +48,15 @@
 
 ### 📈 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voltacik&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltacik&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GamerKinq&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerKinq&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ### 🏆 Başarılar & Rozetler
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=voltacik&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GamerKinq&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -71,14 +71,14 @@
 
 ### 🤝 İletişim & Topluluklar
 
-<a href="https://discord.com/users/1175412226415886386" target="_blank">
+<a href="https://discord.com/@me/1113639831260631171" target="_blank">
   <img src="https://img.shields.io/badge/Discord-voltacik%230000-5865F2?logo=discord&logoColor=white" />
 </a>
 
 🌐 **Sunucularım**  
-- [SetScript Sunucusu](https://discord.gg/setscript)
+- [SetScript Sunucusu](https://discord.gg/)
 
 ---
 
-> 📌 Bu GitHub profili `voltacik` tarafından hazırlanmıştır.  
+> 📌 Bu GitHub profili `GamerKinq` tarafından hazırlanmıştır.  
 > 💻 Kodlamaya, üretmeye ve topluluklara değer katmaya devam...
