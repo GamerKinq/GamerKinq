@@ -71,8 +71,8 @@
 
 ### 🤝 İletişim & Topluluklar
 
-<a href="https://discord.com/@me/1113639831260631171" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-voltacik%230000-5865F2?logo=discord&logoColor=white" />
+<a href="https://discord.com/me/1113639831260631171" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-GamerKinq%230000-5865F2?logo=discord&logoColor=white" />
 </a>
 
 🌐 **Sunucularım**  
