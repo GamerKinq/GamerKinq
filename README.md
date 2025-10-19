@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/voltacik?label=Followers&style=social" />
   <a href="https://discord.com/users/1175412226415886386" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-voltacik%230000-5865F2?logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-GamerKinq230000-5865F2?logo=discord&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Turkey-red?style=flat-square&logo=google-maps" />
 </p>
@@ -44,15 +44,6 @@
 > Lavalink tabanlı, SoundCloud, MP3 ve YouTube destekli, ses hatalarını algılayıp düzeltme özelliğine sahip.  
 🔗 Sadece belirli sunucuda çalışacak şekilde yapılandırılmış.
 
----
-
-### 📈 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamerKinq&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerKinq&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 
 ### 🏆 Başarılar & Rozetler
 <p align="center">
